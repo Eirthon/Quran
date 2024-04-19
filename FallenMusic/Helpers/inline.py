@@ -68,10 +68,10 @@ pm_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="• 𝐋𝐨𝐫𝐝 •", url="https://t.me/M_R_C2"
+            text="• 𝐌𝐚𝐳𝐞𝐧 •", url="https://t.me/M_Lr1"
         ),
         InlineKeyboardButton(
-            text="• 𝐌𝐚𝐳𝐞𝐧 •", url="https://t.me/M_Lr1"),
+            text="• 𝐋𝐨𝐫𝐝 •", url="https://t.me/M_R_C2"),
     ],
 ]
 
@@ -89,10 +89,10 @@ gp_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="• 𝐋𝐨𝐫𝐝 •", url="https://t.me/M_R_C2"
+            text="• 𝐌𝐚𝐳𝐞𝐧 •", url="https://t.me/M_Lr1"
         ),
         InlineKeyboardButton(
-            text="• 𝐌𝐚𝐳𝐞𝐧 •", url="https://t.me/M_Lr1"),
+            text="• 𝐋𝐨𝐫𝐝 •", url="https://t.me/M_R_C2"),
     ],
 ]
 
